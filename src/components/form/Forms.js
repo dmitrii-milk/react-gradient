@@ -77,7 +77,6 @@ export default class Forms extends Component {
 
     
     render() {
-      console.log(this.state)
         return (
             <>
             <Form
